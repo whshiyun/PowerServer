@@ -49,3 +49,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+*.bak
+
+# project files
+*.cproject
+*.project
+*.xml
+*.prefs
